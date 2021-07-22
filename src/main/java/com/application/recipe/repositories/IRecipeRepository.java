@@ -1,2 +1,2 @@
-package com.application.recipe.repositories;public interface IRecipeRepository {
+package com.application.recipe.repositories.impl;public interface IRecipeRepository {
 }
